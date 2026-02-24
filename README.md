@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/DEINLINK">
+  <a href="https://discord.gg/6RJzkj6qSU">
     <img src="https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord">
   </a>
   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3662064159">
