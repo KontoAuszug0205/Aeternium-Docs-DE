@@ -125,7 +125,7 @@
 ---
 
 ## ⚒️ Zerkleinerer
--Folgende Ressourcen können nun im Crusher hergestellt werden:
+- Folgende Ressourcen können nun im Crusher hergestellt werden:
     - Sternensand
     - Eisen
     - Kohle
