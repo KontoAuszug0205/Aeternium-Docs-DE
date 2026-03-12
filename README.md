@@ -25,12 +25,16 @@
 - Transportkapazität pro Transport-Rang: 100 / 200 / 300 / 400 / 500
 - Inventartaschen gebufft: +3 / 6 / 9 / 12 Slots
 - Signifikant erhöhter Entdeckungsradius der Karte
-- Karte ist beim Spielstart vollständig aufgedeckt
+- Pal-Wiederbelebungs-Cooldown in der Palbox reduziert (2:00 Minuten)
+- Gedrückt halten zum Ausbrüten von Eiern entfernt (Eier können sofort geöffnet werden)
+- Schwierigkeit des Angel-Minispiels leicht reduziert
+- Alle Limits für Statpunkte entfernt (inklusive Elixiere)
 -Interaktionszeit reduziert für:
     - Golden Chests auf Ölplattformen (halbiert)
     - Schrott in der Oberwelt (halbiert)
     - Das Vanilla-Spawnverhalten der Pals wurde angepasst, sodass sie nicht mehr nur in einem sehr kleinen Umkreis um den Spieler erscheinen.
     - Dadurch wirkt die Welt deutlich belebter, offene Landschaften fühlen sich natürlicher an und Ausblicke aus größerer Höhe sind nicht mehr leer oder leblos.
+		
 ---
 
 ## 🏗️ Arbeiten, Basen & Automatisierung
@@ -59,6 +63,51 @@
 - Entfernt das Objektlimit pro Charakter
 - Palbox-Reichweite deutlich vergrößert
 - Viele veränderte und angepasste Objekte für Schönbauer wie genau das aussieht, bleibt eine kleine Überraschung ✨
+- Maximale Pal-Statverbesserung an der Statue erhöht → 60% → 100%
+- Seelenkosten für maximale Verbesserung geändert → jetzt 15 / 15 / 15 / 15
+- Lamball, Melpaca und Cremis droppen jetzt gleich viel Wolle
+- Alpha & Beta Wave Generator Effekt erhöht → 10% → 50%
+- Schalchtband Slots erhöht auf 40 swohl die Geschwindigkeit stark erhöht
+- Laboraufgaben verbessert
+- Expeditionen:
+    - Elementanforderungen entfernt
+    - Feuerkraftanforderung halbiert
+- Arbeitsanforderungen von Feldern, Mining Sites ,Öl-Extraktoren ,wurden neu ausbalanciert
+- Surgery Table gewährt keine passiven Effekte mehr standardmäßig, da sie jetzt früher im Spiel verfügbar ist
+
+---
+
+## 🔬 Technologie & Fortschritt
+- Standardmäßig freigeschaltet:
+    - Ring der Rücksichtsnahme 
+    - Donnernde Heimkehr
+- Überarbeitete Arbeitsprioritäten:
+    - Kühlen 
+    - Transportieren
+- Technologie-Level Änderungen
+    - Monitoring Stand jetzt verfügbar ab Level 4
+    - Antique Dresser jetzt verfügbar ab Level 9
+    - Surgery Table jetzt verfügbar ab Level 11
+    - Brutstelle Elektrisch jetzt verfügbar ab Level 21
+    - Absprerrungs-Set jetzt verfügbar ab Level 23
+    - Gartenmöbel-Set jetzt verfügbar ab Level 24
+    - Uhren-Set jetzt verfügbar ab Level 26
+    - Schlachtband jetzt verfügbar ab Level 30
+    - Japanisches-BauSet jetzt verfügbar ab Level 34
+    - Fernöstlichesmöbel-Set jetzt verfügbar ab Level 36
+    - Großer Brutkasten jetzt verfügbar ab Level 37
+    - Fluchtwegschild-Set jetzt verfügbar ab Level 38
+    - Verkehrsicherheit-Set jetzt verfügbar ab Leve40
+    - Verkersschilder-Set jetzt verfügbar ab Level 41
+    - Spielund Spaß-Set jetzt verfügbar ab Level 41
+    - Großer Brutkasten Elektrisch jetzt verfügbar ab Level 48
+    - Jetragon Sattel jetzt verfügbar ab Level 60
+    - Frostallion Sattel jetzt verfügbar ab Level 60
+    - Necromomus Sattel jetzt verfügbar ab Level 60
+    - Paladius Sattel jetzt verfügbar ab Level 60
+    - Xenolord Sattel jetzt verfügbar ab Level 61	
+-Erzmine jetzt verfügbar ab Level 13 die Freischaltung durch Besiegen von Zoe & Grizzbolt
+-Erzmine 2 jetzt verfügbar ab Level 39 die Freischaltung durch Besiegen von Lily & Lyleen
 
 ---
 
@@ -71,6 +120,20 @@
 - Brutzeit: 10 Sekunden pro Ei
 - Max. Eier im Zuchtbetrieb: 100
 - Produktionszeit ~80 % kürzer
+
+
+---
+
+## ⚒️ Zerkleinerer
+-Folgende Ressourcen können nun im Crusher hergestellt werden:
+    - Sternensand
+    - Eisen
+    - Kohle
+    - Schwefel
+    - Quartz
+    - Chromite
+    - Hexolite
+    - Koralium
 
 ---
 
@@ -113,6 +176,8 @@ Yakumo:
     - Leben: 1.0× / 2.0× / 4.0×
     - Heilgranaten: Reichweite & Wirkung ×3
     - Gleiter-Geschwindigkeit verdoppelt
+- Ring der Rücksichtsnahme erhält zusätzlich Capture +1
+- Ultra Shield und Advanced Shield erhalten zusätzlich Hitzeresistenz und Kälteresistenz
 
 ---
 
@@ -135,7 +200,11 @@ Yakumo:
     - Waffen nicht mehr kaufbar
     - Munition neu verteilt nach Gebiet
     - Materialien & Nahrung überall verfügbar
-
+    - Dog-Coin Shop überarbeitet
+    - Bounty Shop überarbeitet
+- Mog:
+    - Dog Coin Dropmenge erhöht
+	
 ---
 
 ## 🗃️ Lager, Gilden & Multiplayer
