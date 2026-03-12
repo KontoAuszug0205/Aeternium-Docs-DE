@@ -106,8 +106,8 @@
     - Necromomus Sattel jetzt verfügbar ab Level 60
     - Paladius Sattel jetzt verfügbar ab Level 60
     - Xenolord Sattel jetzt verfügbar ab Level 61	
--Erzmine jetzt verfügbar ab Level 13 die Freischaltung durch Besiegen von Zoe & Grizzbolt
--Erzmine 2 jetzt verfügbar ab Level 39 die Freischaltung durch Besiegen von Lily & Lyleen
+- Erzmine jetzt verfügbar ab Level 13 die Freischaltung durch Besiegen von Zoe & Grizzbolt
+- Erzmine 2 jetzt verfügbar ab Level 39 die Freischaltung durch Besiegen von Lily & Lyleen
 
 ---
 
