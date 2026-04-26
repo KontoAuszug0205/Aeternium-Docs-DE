@@ -185,6 +185,7 @@ Yakumo:
 - Erhöhte Spawnraten: 
     - Legendäre Baupläne ~10%
     - Implantate ~10%
+	- Drop Tabelle --> https://docs.google.com/spreadsheets/d/151qcZbbgpGMOUf9tLtzveymrU7SNJQjvF_A9i3zizXc/edit?usp=sharing
 - Handbücher:
     - Dungeons ~10%
     - Supply Drops ~100%
